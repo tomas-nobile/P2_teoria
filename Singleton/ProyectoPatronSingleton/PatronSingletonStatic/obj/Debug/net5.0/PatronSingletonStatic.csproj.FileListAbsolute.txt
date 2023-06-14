@@ -1,0 +1,16 @@
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingletonStatic\bin\Debug\net5.0\PatronSingletonStatic.exe
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingletonStatic\bin\Debug\net5.0\PatronSingletonStatic.deps.json
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingletonStatic\bin\Debug\net5.0\PatronSingletonStatic.runtimeconfig.json
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingletonStatic\bin\Debug\net5.0\PatronSingletonStatic.runtimeconfig.dev.json
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingletonStatic\bin\Debug\net5.0\PatronSingletonStatic.dll
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingletonStatic\bin\Debug\net5.0\ref\PatronSingletonStatic.dll
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingletonStatic\bin\Debug\net5.0\PatronSingletonStatic.pdb
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingletonStatic\obj\Debug\net5.0\PatronSingletonStatic.csprojAssemblyReference.cache
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingletonStatic\obj\Debug\net5.0\PatronSingletonStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingletonStatic\obj\Debug\net5.0\PatronSingletonStatic.AssemblyInfoInputs.cache
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingletonStatic\obj\Debug\net5.0\PatronSingletonStatic.AssemblyInfo.cs
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingletonStatic\obj\Debug\net5.0\PatronSingletonStatic.csproj.CoreCompileInputs.cache
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingletonStatic\obj\Debug\net5.0\PatronSingletonStatic.dll
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingletonStatic\obj\Debug\net5.0\ref\PatronSingletonStatic.dll
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingletonStatic\obj\Debug\net5.0\PatronSingletonStatic.pdb
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingletonStatic\obj\Debug\net5.0\PatronSingletonStatic.genruntimeconfig.cache

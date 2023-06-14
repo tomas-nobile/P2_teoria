@@ -1,0 +1,32 @@
+﻿
+PRINCIPIO DE SUSTITUCION DE LISKOV
+
+El Principio de Sustitución de Liskov establece que las subclases deben ser sustituibles por sus clases base.
+
+Esto significa que, dado que la clase B es una subclase de la clase A, deberíamos poder pasar un objeto de la 
+clase B a cualquier método que espere un objeto de la clase A, y el método no debería dar ningún resultado 
+extraño en ese caso.
+
+Este es el comportamiento esperado, porque cuando usamos la herencia asumimos que la subclase hereda todo lo 
+que tiene la superclase. La subclase EXTIENDE el comportamiento pero nunca lo reduce.
+
+Por lo tanto, cuando una clase no obedece este principio, genera algunos errores desagradables que son 
+difíciles de detectar.
+
+El principio de Liskov es fácil de entender, pero difícil de detectar en el código. 
+
+EJEMPLO:
+-------
+Tenemos una clase Rectangulo simple, con sus atributos ancho y alto, y una función Area() que devuelve el 
+área del rectángulo.
+
+Ahora decidimos crear otra clase para Cuadrados. Un cuadrado es solo un tipo especial de rectángulo donde 
+el ancho es igual a la altura. Entónces EXTENDEMOS la clase Rectangulo.
+
+LA CLASE Cuadrado AMPLÍA LA CLASE Rectángulo. 
+Establecemos alto y ancho con el mismo valor en el constructor, pero "NO QUEREMOS QUE NINGUN CLIENTE"
+(quien use la clase) "CAMBIE EL ALTO Y EL ANCHO DE FORMA TAL QUE PUEDA VIOLAR LA PROPIEDAD CUADRADA".
+
+Entonces, en el constructor del cuadrado recibimos su tamaño del lado del cuadrado, y se asigna al ancho y alto.
+Y Por lo tanto, anulamos los setters para establecer ambas propiedades cada vez que se cambia una de ellas.
+Pero al hacerlo acabamos de violar el principio de sustitución de Liskov.

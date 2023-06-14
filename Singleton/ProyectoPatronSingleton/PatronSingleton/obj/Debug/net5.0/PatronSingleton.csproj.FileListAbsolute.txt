@@ -1,0 +1,16 @@
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingleton\bin\Debug\net5.0\PatronSingleton.exe
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingleton\bin\Debug\net5.0\PatronSingleton.deps.json
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingleton\bin\Debug\net5.0\PatronSingleton.runtimeconfig.json
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingleton\bin\Debug\net5.0\PatronSingleton.runtimeconfig.dev.json
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingleton\bin\Debug\net5.0\PatronSingleton.dll
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingleton\bin\Debug\net5.0\ref\PatronSingleton.dll
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingleton\bin\Debug\net5.0\PatronSingleton.pdb
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingleton\obj\Debug\net5.0\PatronSingleton.csprojAssemblyReference.cache
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingleton\obj\Debug\net5.0\PatronSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingleton\obj\Debug\net5.0\PatronSingleton.AssemblyInfoInputs.cache
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingleton\obj\Debug\net5.0\PatronSingleton.AssemblyInfo.cs
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingleton\obj\Debug\net5.0\PatronSingleton.csproj.CoreCompileInputs.cache
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingleton\obj\Debug\net5.0\PatronSingleton.dll
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingleton\obj\Debug\net5.0\ref\PatronSingleton.dll
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingleton\obj\Debug\net5.0\PatronSingleton.pdb
+C:\Ort2021\Programacion 2\Patron SINGLETON\ProyectoPatronSingleton\PatronSingleton\obj\Debug\net5.0\PatronSingleton.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D/IoksFVVRpRM6UixWBiQSd45wnSTbFPWyGf6kK8L7DKvukLmVIbFajH7G9n7rH8GSGoX6IhWnFxIKM1mWqjIg==",
+  "success": true,
+  "projectFilePath": "C:\\Ort2021\\Programacion 2\\Patron FACTORY METHOD\\ProyectosFactory\\PatronSimpleFactory\\PatronSimpleFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miriam\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Miriam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.4\\microsoft.netcore.app.host.win-x64.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

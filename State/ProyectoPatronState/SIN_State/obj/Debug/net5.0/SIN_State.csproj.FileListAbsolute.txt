@@ -1,0 +1,16 @@
+C:\Ort2021\Programacion 2\Patron STATE\PatronState\PatronState\bin\Debug\net5.0\SIN_State.exe
+C:\Ort2021\Programacion 2\Patron STATE\PatronState\PatronState\bin\Debug\net5.0\SIN_State.deps.json
+C:\Ort2021\Programacion 2\Patron STATE\PatronState\PatronState\bin\Debug\net5.0\SIN_State.runtimeconfig.json
+C:\Ort2021\Programacion 2\Patron STATE\PatronState\PatronState\bin\Debug\net5.0\SIN_State.runtimeconfig.dev.json
+C:\Ort2021\Programacion 2\Patron STATE\PatronState\PatronState\bin\Debug\net5.0\SIN_State.dll
+C:\Ort2021\Programacion 2\Patron STATE\PatronState\PatronState\bin\Debug\net5.0\ref\SIN_State.dll
+C:\Ort2021\Programacion 2\Patron STATE\PatronState\PatronState\bin\Debug\net5.0\SIN_State.pdb
+C:\Ort2021\Programacion 2\Patron STATE\PatronState\PatronState\obj\Debug\net5.0\SIN_State.csprojAssemblyReference.cache
+C:\Ort2021\Programacion 2\Patron STATE\PatronState\PatronState\obj\Debug\net5.0\SIN_State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ort2021\Programacion 2\Patron STATE\PatronState\PatronState\obj\Debug\net5.0\SIN_State.AssemblyInfoInputs.cache
+C:\Ort2021\Programacion 2\Patron STATE\PatronState\PatronState\obj\Debug\net5.0\SIN_State.AssemblyInfo.cs
+C:\Ort2021\Programacion 2\Patron STATE\PatronState\PatronState\obj\Debug\net5.0\SIN_State.csproj.CoreCompileInputs.cache
+C:\Ort2021\Programacion 2\Patron STATE\PatronState\PatronState\obj\Debug\net5.0\SIN_State.dll
+C:\Ort2021\Programacion 2\Patron STATE\PatronState\PatronState\obj\Debug\net5.0\ref\SIN_State.dll
+C:\Ort2021\Programacion 2\Patron STATE\PatronState\PatronState\obj\Debug\net5.0\SIN_State.pdb
+C:\Ort2021\Programacion 2\Patron STATE\PatronState\PatronState\obj\Debug\net5.0\SIN_State.genruntimeconfig.cache

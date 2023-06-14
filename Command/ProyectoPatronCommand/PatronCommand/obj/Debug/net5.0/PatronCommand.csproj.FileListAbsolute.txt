@@ -1,0 +1,16 @@
+C:\Ort2021\Programacion 2\Patron COMMAND\ProyectoPatronCommand\PatronCommand\bin\Debug\net5.0\PatronCommand.exe
+C:\Ort2021\Programacion 2\Patron COMMAND\ProyectoPatronCommand\PatronCommand\bin\Debug\net5.0\PatronCommand.deps.json
+C:\Ort2021\Programacion 2\Patron COMMAND\ProyectoPatronCommand\PatronCommand\bin\Debug\net5.0\PatronCommand.runtimeconfig.json
+C:\Ort2021\Programacion 2\Patron COMMAND\ProyectoPatronCommand\PatronCommand\bin\Debug\net5.0\PatronCommand.runtimeconfig.dev.json
+C:\Ort2021\Programacion 2\Patron COMMAND\ProyectoPatronCommand\PatronCommand\bin\Debug\net5.0\PatronCommand.dll
+C:\Ort2021\Programacion 2\Patron COMMAND\ProyectoPatronCommand\PatronCommand\bin\Debug\net5.0\ref\PatronCommand.dll
+C:\Ort2021\Programacion 2\Patron COMMAND\ProyectoPatronCommand\PatronCommand\bin\Debug\net5.0\PatronCommand.pdb
+C:\Ort2021\Programacion 2\Patron COMMAND\ProyectoPatronCommand\PatronCommand\obj\Debug\net5.0\PatronCommand.csprojAssemblyReference.cache
+C:\Ort2021\Programacion 2\Patron COMMAND\ProyectoPatronCommand\PatronCommand\obj\Debug\net5.0\PatronCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ort2021\Programacion 2\Patron COMMAND\ProyectoPatronCommand\PatronCommand\obj\Debug\net5.0\PatronCommand.AssemblyInfoInputs.cache
+C:\Ort2021\Programacion 2\Patron COMMAND\ProyectoPatronCommand\PatronCommand\obj\Debug\net5.0\PatronCommand.AssemblyInfo.cs
+C:\Ort2021\Programacion 2\Patron COMMAND\ProyectoPatronCommand\PatronCommand\obj\Debug\net5.0\PatronCommand.csproj.CoreCompileInputs.cache
+C:\Ort2021\Programacion 2\Patron COMMAND\ProyectoPatronCommand\PatronCommand\obj\Debug\net5.0\PatronCommand.dll
+C:\Ort2021\Programacion 2\Patron COMMAND\ProyectoPatronCommand\PatronCommand\obj\Debug\net5.0\ref\PatronCommand.dll
+C:\Ort2021\Programacion 2\Patron COMMAND\ProyectoPatronCommand\PatronCommand\obj\Debug\net5.0\PatronCommand.pdb
+C:\Ort2021\Programacion 2\Patron COMMAND\ProyectoPatronCommand\PatronCommand\obj\Debug\net5.0\PatronCommand.genruntimeconfig.cache

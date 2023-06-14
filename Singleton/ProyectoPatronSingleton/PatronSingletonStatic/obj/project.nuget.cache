@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b6XjV2hVxnIyoRaOANMHsi0Y+mxGiHEkcFg7a81827d8eDWvTHT5EkffbH2s64GyYgu7BWmVGgCicJAtPD9BOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Ort2021\\Programacion 2\\Patron SINGLETON\\ProyectoPatronSingleton\\PatronSingletonStatic\\PatronSingletonStatic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miriam\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Miriam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.4\\microsoft.netcore.app.host.win-x64.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

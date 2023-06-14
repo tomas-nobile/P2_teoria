@@ -1,0 +1,50 @@
+﻿
+PRINCIPIO DE APERTURA Y CIERRE
+
+El principio de apertura y cierre exige que las clases deban estar ABIERTAS A LA EXTENSION y
+CERRADAS A LA MODIFICACION.
+
+MODIFICACION significa cambiar el código de una clase existente y EXTENSION significa agregar 
+una nueva funcionalidad.
+
+Entonces, lo que este principio quiere decir es: "Deberíamos poder agregar nuevas funciones,
+sin tocar el código existente para la clase". 
+
+Esto se debe a que cada vez que modificamos el código existente, corremos el riesgo de crear 
+errores potenciales. Por lo tanto, debemos "evitar tocar el código de producción probado y confiable"
+(en su mayoría) "si es posible".
+
+Pero, ¿cómo vamos a agregar una nueva funcionalidad sin tocar la clase? 
+Por lo general, se hace con la ayuda de INTERFACES y CLASES ABSTRACTAS.
+
+EJEMPLO:
+-------
+Partiendo del ejemplo de la libreria que vende libros, resulta que vino el jefe y dijo que quiere 
+que las facturas se guarden en una base de datos poder buscarlas fácilmente (actualmente están guardadas
+en un archivo), entonces agregamos un método guardarEnBaseDatos().
+ 
+Y dado el problema de diseño al tener métodos de persistencia de datos separados, decidimos 
+refactorizar el código para obedecer el principio creando INTERFACES.
+
+PASOS A SEGUIR:
+--------------
+Cambiamos el tipo de FacturaPersistencia por una interface llamada IFacturaPersistencia, y agregamos 
+el método Guardar(), donde cada clase de persistencia implementará este método según en que origen
+de datos se guarde la factura.
+
+Vea en el archivo DiagramaClasePAyC.png, cómo queda el modelo luego de aplicar el principio.
+    
+Ahora nuestra lógica de persistencia es fácilmente EXTENSIBLE, por ejemplo, si el jefe nos pide
+que agreguemos otra base de datos y tengamos 2 tipos diferentes de bases de datos como MySQL y
+MongoDB, podemos hacerlo fácilmente.
+
+ADICIONAL:
+---------
+Podríamos simplemente crear múltiples clases sin una interfaz y agregar un método de guardado para todas ellas.
+
+Pero supongamos que ampliamos la aplicación y tenemos varias clases de persistencia como FacturaPersistencia, 
+LibroPersistencia y creamos una clase AdministradorPersistencia que administra todas las clases de persistencia.
+
+Vea el código de la clase "AdministradorPersistencia".
+
+Aquí también estamos aplicando el PRINCIPIO DE SEGREGACION DE INTERFACES, que se describe luego.

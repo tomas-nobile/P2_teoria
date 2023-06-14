@@ -1,0 +1,16 @@
+C:\Ort2021\Programacion 2\Patron ADAPTER\ProyectoPatronAdapter\PatronAdapter\obj\Debug\net5.0\PatronAdapter.csprojAssemblyReference.cache
+C:\Ort2021\Programacion 2\Patron ADAPTER\ProyectoPatronAdapter\PatronAdapter\obj\Debug\net5.0\PatronAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ort2021\Programacion 2\Patron ADAPTER\ProyectoPatronAdapter\PatronAdapter\obj\Debug\net5.0\PatronAdapter.AssemblyInfoInputs.cache
+C:\Ort2021\Programacion 2\Patron ADAPTER\ProyectoPatronAdapter\PatronAdapter\obj\Debug\net5.0\PatronAdapter.AssemblyInfo.cs
+C:\Ort2021\Programacion 2\Patron ADAPTER\ProyectoPatronAdapter\PatronAdapter\obj\Debug\net5.0\PatronAdapter.csproj.CoreCompileInputs.cache
+C:\Ort2021\Programacion 2\Patron ADAPTER\ProyectoPatronAdapter\PatronAdapter\bin\Debug\net5.0\PatronAdapter.exe
+C:\Ort2021\Programacion 2\Patron ADAPTER\ProyectoPatronAdapter\PatronAdapter\bin\Debug\net5.0\PatronAdapter.deps.json
+C:\Ort2021\Programacion 2\Patron ADAPTER\ProyectoPatronAdapter\PatronAdapter\bin\Debug\net5.0\PatronAdapter.runtimeconfig.json
+C:\Ort2021\Programacion 2\Patron ADAPTER\ProyectoPatronAdapter\PatronAdapter\bin\Debug\net5.0\PatronAdapter.runtimeconfig.dev.json
+C:\Ort2021\Programacion 2\Patron ADAPTER\ProyectoPatronAdapter\PatronAdapter\bin\Debug\net5.0\PatronAdapter.dll
+C:\Ort2021\Programacion 2\Patron ADAPTER\ProyectoPatronAdapter\PatronAdapter\bin\Debug\net5.0\ref\PatronAdapter.dll
+C:\Ort2021\Programacion 2\Patron ADAPTER\ProyectoPatronAdapter\PatronAdapter\bin\Debug\net5.0\PatronAdapter.pdb
+C:\Ort2021\Programacion 2\Patron ADAPTER\ProyectoPatronAdapter\PatronAdapter\obj\Debug\net5.0\PatronAdapter.dll
+C:\Ort2021\Programacion 2\Patron ADAPTER\ProyectoPatronAdapter\PatronAdapter\obj\Debug\net5.0\ref\PatronAdapter.dll
+C:\Ort2021\Programacion 2\Patron ADAPTER\ProyectoPatronAdapter\PatronAdapter\obj\Debug\net5.0\PatronAdapter.pdb
+C:\Ort2021\Programacion 2\Patron ADAPTER\ProyectoPatronAdapter\PatronAdapter\obj\Debug\net5.0\PatronAdapter.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+﻿
+PRINCIPIO DE INVERSION DE DEPENDENCIA
+
+El principio de inversión de dependencia establece que las clases deben depender de interfaces o clases abstractas 
+en lugar de clases y funciones concretas.
+
+El PRINCIPIO DE APERTURA Y CIERRE, está intimamente relacionados con el PRINCIPIO DE INVERSION DE DEPENDENCIA, y el 
+PRINCIPIO DE INVERSION DE DEPENDENCIA ya lo hemos aplicado mientras veíamos el Principio Abierto-Cerrado.
+
+"Queremos que nuestras clases estén abiertas a la extensión", por lo que hemos reorganizado nuestras dependencias
+para que "dependan de interfaces" en lugar de clases concretas. 
+
+La clase AdministradorPersistencia depende de la interfaz IFacturaPersistencia en lugar de las clases que implementan esa interfaz.
+(vea el código de la clase "AdministradorPersistencia", en la carpeta "2_PrincipioAperturaYCierre").
+
+
+EJEMPLO:
+-------

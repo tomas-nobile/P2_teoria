@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XOdPSyVRzd+rz9DpshEoy6y7SHaY7PhVsRyqsMiYOQSRmOnL9s89i5jyeAqO3BAhbDZJyxFmSB2RM3Nn9l1ujw==",
+  "success": true,
+  "projectFilePath": "C:\\Ort2021\\Programacion 2\\Patron OBSERVER\\ProyectoPatronObserver\\PatronObserver\\PatronObserver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miriam\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Miriam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.4\\microsoft.netcore.app.host.win-x64.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

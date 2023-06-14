@@ -1,0 +1,16 @@
+C:\Ort2021\Programacion 2\Patron OBSERVER\ProyectoPatronObserver\PatronObserver\bin\Debug\net5.0\PatronObserver.exe
+C:\Ort2021\Programacion 2\Patron OBSERVER\ProyectoPatronObserver\PatronObserver\bin\Debug\net5.0\PatronObserver.deps.json
+C:\Ort2021\Programacion 2\Patron OBSERVER\ProyectoPatronObserver\PatronObserver\bin\Debug\net5.0\PatronObserver.runtimeconfig.json
+C:\Ort2021\Programacion 2\Patron OBSERVER\ProyectoPatronObserver\PatronObserver\bin\Debug\net5.0\PatronObserver.runtimeconfig.dev.json
+C:\Ort2021\Programacion 2\Patron OBSERVER\ProyectoPatronObserver\PatronObserver\bin\Debug\net5.0\PatronObserver.dll
+C:\Ort2021\Programacion 2\Patron OBSERVER\ProyectoPatronObserver\PatronObserver\bin\Debug\net5.0\ref\PatronObserver.dll
+C:\Ort2021\Programacion 2\Patron OBSERVER\ProyectoPatronObserver\PatronObserver\bin\Debug\net5.0\PatronObserver.pdb
+C:\Ort2021\Programacion 2\Patron OBSERVER\ProyectoPatronObserver\PatronObserver\obj\Debug\net5.0\PatronObserver.csprojAssemblyReference.cache
+C:\Ort2021\Programacion 2\Patron OBSERVER\ProyectoPatronObserver\PatronObserver\obj\Debug\net5.0\PatronObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ort2021\Programacion 2\Patron OBSERVER\ProyectoPatronObserver\PatronObserver\obj\Debug\net5.0\PatronObserver.AssemblyInfoInputs.cache
+C:\Ort2021\Programacion 2\Patron OBSERVER\ProyectoPatronObserver\PatronObserver\obj\Debug\net5.0\PatronObserver.AssemblyInfo.cs
+C:\Ort2021\Programacion 2\Patron OBSERVER\ProyectoPatronObserver\PatronObserver\obj\Debug\net5.0\PatronObserver.csproj.CoreCompileInputs.cache
+C:\Ort2021\Programacion 2\Patron OBSERVER\ProyectoPatronObserver\PatronObserver\obj\Debug\net5.0\PatronObserver.dll
+C:\Ort2021\Programacion 2\Patron OBSERVER\ProyectoPatronObserver\PatronObserver\obj\Debug\net5.0\ref\PatronObserver.dll
+C:\Ort2021\Programacion 2\Patron OBSERVER\ProyectoPatronObserver\PatronObserver\obj\Debug\net5.0\PatronObserver.pdb
+C:\Ort2021\Programacion 2\Patron OBSERVER\ProyectoPatronObserver\PatronObserver\obj\Debug\net5.0\PatronObserver.genruntimeconfig.cache

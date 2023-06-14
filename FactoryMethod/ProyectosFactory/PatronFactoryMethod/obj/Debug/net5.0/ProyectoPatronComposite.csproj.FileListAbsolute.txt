@@ -1,0 +1,16 @@
+C:\Ort2021\Programacion 2\Patron COMPOSITE\ProyectoPatronComposite\ProyectoPatronComposite\obj\Debug\net5.0\ProyectoPatronComposite.csprojAssemblyReference.cache
+C:\Ort2021\Programacion 2\Patron COMPOSITE\ProyectoPatronComposite\ProyectoPatronComposite\obj\Debug\net5.0\ProyectoPatronComposite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ort2021\Programacion 2\Patron COMPOSITE\ProyectoPatronComposite\ProyectoPatronComposite\obj\Debug\net5.0\ProyectoPatronComposite.AssemblyInfoInputs.cache
+C:\Ort2021\Programacion 2\Patron COMPOSITE\ProyectoPatronComposite\ProyectoPatronComposite\obj\Debug\net5.0\ProyectoPatronComposite.AssemblyInfo.cs
+C:\Ort2021\Programacion 2\Patron COMPOSITE\ProyectoPatronComposite\ProyectoPatronComposite\obj\Debug\net5.0\ProyectoPatronComposite.csproj.CoreCompileInputs.cache
+C:\Ort2021\Programacion 2\Patron COMPOSITE\ProyectoPatronComposite\ProyectoPatronComposite\bin\Debug\net5.0\ProyectoPatronComposite.exe
+C:\Ort2021\Programacion 2\Patron COMPOSITE\ProyectoPatronComposite\ProyectoPatronComposite\bin\Debug\net5.0\ProyectoPatronComposite.deps.json
+C:\Ort2021\Programacion 2\Patron COMPOSITE\ProyectoPatronComposite\ProyectoPatronComposite\bin\Debug\net5.0\ProyectoPatronComposite.runtimeconfig.json
+C:\Ort2021\Programacion 2\Patron COMPOSITE\ProyectoPatronComposite\ProyectoPatronComposite\bin\Debug\net5.0\ProyectoPatronComposite.runtimeconfig.dev.json
+C:\Ort2021\Programacion 2\Patron COMPOSITE\ProyectoPatronComposite\ProyectoPatronComposite\bin\Debug\net5.0\ProyectoPatronComposite.dll
+C:\Ort2021\Programacion 2\Patron COMPOSITE\ProyectoPatronComposite\ProyectoPatronComposite\bin\Debug\net5.0\ref\ProyectoPatronComposite.dll
+C:\Ort2021\Programacion 2\Patron COMPOSITE\ProyectoPatronComposite\ProyectoPatronComposite\bin\Debug\net5.0\ProyectoPatronComposite.pdb
+C:\Ort2021\Programacion 2\Patron COMPOSITE\ProyectoPatronComposite\ProyectoPatronComposite\obj\Debug\net5.0\ProyectoPatronComposite.dll
+C:\Ort2021\Programacion 2\Patron COMPOSITE\ProyectoPatronComposite\ProyectoPatronComposite\obj\Debug\net5.0\ref\ProyectoPatronComposite.dll
+C:\Ort2021\Programacion 2\Patron COMPOSITE\ProyectoPatronComposite\ProyectoPatronComposite\obj\Debug\net5.0\ProyectoPatronComposite.pdb
+C:\Ort2021\Programacion 2\Patron COMPOSITE\ProyectoPatronComposite\ProyectoPatronComposite\obj\Debug\net5.0\ProyectoPatronComposite.genruntimeconfig.cache

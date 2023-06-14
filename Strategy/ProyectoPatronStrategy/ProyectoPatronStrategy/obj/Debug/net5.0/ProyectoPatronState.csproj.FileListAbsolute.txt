@@ -1,0 +1,16 @@
+C:\Ort2021\Programacion 2\Patron STRATEGY\ProyectoPatronState\ProyectoPatronState\bin\Debug\net5.0\ProyectoPatronState.exe
+C:\Ort2021\Programacion 2\Patron STRATEGY\ProyectoPatronState\ProyectoPatronState\bin\Debug\net5.0\ProyectoPatronState.deps.json
+C:\Ort2021\Programacion 2\Patron STRATEGY\ProyectoPatronState\ProyectoPatronState\bin\Debug\net5.0\ProyectoPatronState.runtimeconfig.json
+C:\Ort2021\Programacion 2\Patron STRATEGY\ProyectoPatronState\ProyectoPatronState\bin\Debug\net5.0\ProyectoPatronState.runtimeconfig.dev.json
+C:\Ort2021\Programacion 2\Patron STRATEGY\ProyectoPatronState\ProyectoPatronState\bin\Debug\net5.0\ProyectoPatronState.dll
+C:\Ort2021\Programacion 2\Patron STRATEGY\ProyectoPatronState\ProyectoPatronState\bin\Debug\net5.0\ref\ProyectoPatronState.dll
+C:\Ort2021\Programacion 2\Patron STRATEGY\ProyectoPatronState\ProyectoPatronState\bin\Debug\net5.0\ProyectoPatronState.pdb
+C:\Ort2021\Programacion 2\Patron STRATEGY\ProyectoPatronState\ProyectoPatronState\obj\Debug\net5.0\ProyectoPatronState.csprojAssemblyReference.cache
+C:\Ort2021\Programacion 2\Patron STRATEGY\ProyectoPatronState\ProyectoPatronState\obj\Debug\net5.0\ProyectoPatronState.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ort2021\Programacion 2\Patron STRATEGY\ProyectoPatronState\ProyectoPatronState\obj\Debug\net5.0\ProyectoPatronState.AssemblyInfoInputs.cache
+C:\Ort2021\Programacion 2\Patron STRATEGY\ProyectoPatronState\ProyectoPatronState\obj\Debug\net5.0\ProyectoPatronState.AssemblyInfo.cs
+C:\Ort2021\Programacion 2\Patron STRATEGY\ProyectoPatronState\ProyectoPatronState\obj\Debug\net5.0\ProyectoPatronState.csproj.CoreCompileInputs.cache
+C:\Ort2021\Programacion 2\Patron STRATEGY\ProyectoPatronState\ProyectoPatronState\obj\Debug\net5.0\ProyectoPatronState.dll
+C:\Ort2021\Programacion 2\Patron STRATEGY\ProyectoPatronState\ProyectoPatronState\obj\Debug\net5.0\ref\ProyectoPatronState.dll
+C:\Ort2021\Programacion 2\Patron STRATEGY\ProyectoPatronState\ProyectoPatronState\obj\Debug\net5.0\ProyectoPatronState.pdb
+C:\Ort2021\Programacion 2\Patron STRATEGY\ProyectoPatronState\ProyectoPatronState\obj\Debug\net5.0\ProyectoPatronState.genruntimeconfig.cache
